@@ -6,6 +6,7 @@ Writes a horror story in exactly two sentences to entry.txt.
 import os
 from pathlib import Path
 
+# Exactly two sentences, 138 characters, within the 400 character limit.
 LINE = "I installed a camera to catch the thing moving my keys at night. Last night's footage shows me, asleep in bed, watching myself steal them."
 
 
